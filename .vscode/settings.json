@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "threads.h": "c",
+    "stdio.h": "c",
+    "timeslice.h": "c"
+  }
+}
